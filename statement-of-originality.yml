@@ -1,31 +1,22 @@
 # adapted from https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
 
 # put *your* name here
-name:
+name: Alexandru-Marcel Visan
 
 declaration: >-
   I declare that everything I have submitted in this assignment is entirely my
   own work, with the following exceptions:
 
 
-# add as many "name+comment" entries as necessary
-# (or remove it altogether if you haven't collaborated with anyone)
-collaboration:
-  - name:
-    comment: >-
+
       
 
 # add as many "url+licence+comment" entries as necessary
 # (or remove it altogether if you haven't used any external code)
 code:
-  - comment:
-    url:
+  - comment: A tutorial used to define the boomerang and understand its mechanics with the vocoder (second link) (pfft.robot in 3rd link)
+    url:https://www.youtube.com/watch?v=3KKX6ni0oQE ; https://www.youtube.com/watch?v=4feOFLX6238; https://www.youtube.com/watch?v=CU6hpghtJG0
     licence:
 
 
-# add as many "url+licence+comment" entries as necessary
-# (or remove it altogether if you haven't used any external assets)
-assets:
-  - comment:
-    url:
-    licence:
+

@@ -1,22 +1,34 @@
 # (Titlu)
-(Scurtă descriere)
+Boomerang with a twist (vocoder)
 
 ## (Instalare)
-...
+Se deschide fisierul Boomerang (fisierul boomerang si robot_pfft trebuie sa se afle in acelasi folder)
 
 ## (Utilizare)
-...
+
+1. Se apasa butonul de pe microfon pt a enabla intrarea micofonului. 
+2. Dupa aceea activam toggle pentru a enabla inregistrarea informatiei in buffer.
+3. Alegem tipul de intrarea pe care-l dorim.
+4. Apasam space pentru a inregistra. Facem release la butonul space ca sa oprim inregistrarea.
+
+Aplicatia foloseste un buffer loop care o sa tina minta informatia si unde vom adauga informatie noua. Are si un button clear care ne ajuta sa golim informatia din buffer.
+Userul selecteaza ce voce (voce normala, voce robot) doreste sa inregistreze in buffer cu ajutorul selectorului din stanga.
+
+Primul gain controleaza volumul vocoderului.
+Al doilea gain controleaza volumul din interiorul bufferului.
+Al treilea gain controleaza volumul vocii live din vocoder pentru a putea alege cum sa sune vocea utilizatorului. Alaturi avem un meter care ne poate ajuta sa controlam nivelul vocii.
+
 
 ## (Istoric)
+Am ales sa fac un program in Max cunoscut ca un program boomerang, ce se bazeaza pe faptul ca userul are o inregistrare (un loop) si poate adauga informatie peste ea (daca alege) apasand un singur buton.
+M am gandit ca e o aplicatie simpla si fun de facut.
+Cu ajutorul unui vocoder reusim sa inseram un efect pe voce cand alegem sa facem lucrul acesta.
 
-(13.05) ...
 
-(3.06) ...
 
-(X.06) ...
 
 ## (Link-uri)
-...
+
 
 # Dezvoltarea proiectului
 
